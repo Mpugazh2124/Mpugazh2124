@@ -1,54 +1,91 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:2563EB&height=180&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&pause=1200&color=2563EB&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Pugazh"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=2563EB&center=true&vCenter=true&width=500&lines=Hi,+I'm+Pugazh;AI+%26+ML+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=4F46E5&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Enthusiast"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Mpugazh2124)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pugazh-m-919a3734a)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pugazhsrk2124@gmail.com)
+<br>
+
+<a href="https://github.com/Mpugazh2124">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/pugazh-m-919a3734a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pugazhsrk2124@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
+
+---
 
 # 👨‍💻 About Me
 
 - 🎓 Final Year Student
-- 🤖 AI & Machine Learning Enthusiast
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
-- 🌱 Learning AI Agents, Deep Learning & Computer Vision
+- 💡 Interested in solving real-world problems with AI
+- 🌱 Currently learning Deep Learning, AI Agents, and Computer Vision
 - 🤝 Open to internships and collaborations
+
+---
 
 # 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,flask,mysql,linux" />
-</p>
+<div align="center">
 
-# 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,git&perline=5"/>
 
-<p align="center">
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mpugazh2124&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=Mpugazh2124&theme=github-dark&hide_border=true"/>
-</p>
 
-<p align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mpugazh2124&theme=github-dark&hide_border=true"/>
-</p>
+</div>
 
-# 💻 Top Languages
+---
 
-<p align="center">
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mpugazh2124&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpugazh2124&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-# 🚀 Projects
+</div>
 
-- 🤖 Human Disease Prediction
-- 🌿 Plant Disease Detection
-- ❤️ 3D Heart Visualization
-- 💊 Medicine Scanner
-- 🏨 Hotel Management System
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 Human Disease Prediction | Machine Learning model for disease prediction |
+| 🌿 Plant Disease Detection | CNN-based plant disease classification |
+| ❤️ 3D Heart Visualization | Interactive 3D heart using React & Three.js |
+| 💊 Medicine Scanner | Flutter application with AI |
+| 🏨 Hotel Management System | Flask + MySQL based web application |
+
+---
 
 # 🌱 Currently Learning
 
@@ -56,19 +93,36 @@
 - Machine Learning
 - Deep Learning
 - AI Agents
+- Computer Vision
 
-# 🐍 Contribution Snake
+---
 
-> Configure GitHub Action from Platane/snk, then uncomment below.
+# 📫 Connect With Me
 
-<!--
-<img src="https://raw.githubusercontent.com/Mpugazh2124/Mpugazh2124/output/github-contribution-grid-snake-dark.svg"/>
--->
+<div align="center">
 
-# 📫 Connect
+<a href="https://github.com/Mpugazh2124" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 
-- GitHub: https://github.com/Mpugazh2124
-- LinkedIn: https://linkedin.com/in/pugazh-m-919a3734a
-- Email: pugazhsrk2124@gmail.com
+&nbsp;&nbsp;&nbsp;
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:4F46E5&height=120&section=footer"/>
+<a href="https://linkedin.com/in/pugazh-m-919a3734a" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:pugazhsrk2124@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *"Learning today. Building intelligent solutions for tomorrow."*
+
+</div>
