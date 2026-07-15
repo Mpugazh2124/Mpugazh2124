@@ -1,21 +1,29 @@
-<h1 align="center">Hi there, I'm Pugazh M 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=200&section=header&text=Hi%20there,%20I'm%20Pugazh%20M%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-<h3 align="center">🎓 Student | 💻 Code Explorer | ☕ Powered by Curiosity (and coffee)</h3>
+<h3 align="center">🤖 AI Enthusiast | 🎓 Fresher | 🚀 Ready to Build the Future</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+to+code%2C+one+bug+at+a+time+🐛;Turning+coffee+into+commits+☕➡️💻;Currently+debugging+life+and+my+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+about+Artificial+Intelligence+🤖;Turning+curiosity+into+code+💡;Ready+to+solve+real-world+problems+🌍;Always+learning%2C+always+growing+🌱" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently a **student**, diving into the world of code
+A highly motivated and self-driven individual with a strong passion for **Artificial Intelligence** and its growing impact on the world. As a **fresher**, I'm eager to apply my problem-solving skills, adaptability, and collaborative mindset to real-world challenges.
+
+I'm committed to continuous learning and staying updated with the latest advancements in AI and related technologies. Ready to contribute to innovative projects, I aim to grow both personally and professionally in a dynamic, forward-thinking environment.
+
+- 🤖 Passionate about: **Artificial Intelligence & Machine Learning**
 - 🌱 Learning: `[Language/Framework]`, `[Language/Framework]`, `[Language/Framework]`
 - 🔭 Currently working on: **[Project Name]**
-- 🎯 Goal for this year: **[e.g. build 5 projects / crack an internship / learn DSA]**
+- 🎯 Goal for this year: **Land my first opportunity in AI & keep building projects**
+- 🤝 Bringing to the table: **problem-solving, adaptability & a collaborative mindset**
 - ⚡ Fun fact: **[Something quirky about you]**
-- 🎮 When I'm not coding: **[Hobby, e.g. gaming, music, memes...]**
 
 ---
 
@@ -23,9 +31,10 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
