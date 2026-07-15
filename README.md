@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pugazh%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Enthusiast%20%7C%20Fresher%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=48&duration=2500&pause=1200&color=2C5364&center=true&vCenter=true&width=500&height=70&lines=Pugazh+M" alt="Name" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=5C8374&center=true&vCenter=true&width=650&lines=AI+Enthusiast+%7C+Fresher+%7C+Problem+Solver" alt="Tagline" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Passionate+about+Artificial+Intelligence+🤖;Building+solutions+that+matter+💡;Continuous+learner%2C+forever+curious+🌱;Ready+to+create+real+impact+🚀" alt="Typing SVG" />
 
